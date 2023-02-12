@@ -10,11 +10,7 @@ Le jeu de données est composé de 100 000 observations qui correspondent aux co
 Brésil de 2016  à 2018.
 La base de données de Olist est organisé selon le schéma ci dessous: 
 
-<img src="https://raw.githubusercontent.com/bachir151/Projet-openclassrooms/master/P4/olis_db.png"  width="50%" height="50%">
-
-
-![alt text](https://raw.githubusercontent.com/bachir151/Projet-openclassrooms/master/P4/olis_db.png)
-
+<img src="https://raw.githubusercontent.com/bachir151/Projet-openclassrooms/master/P4/olis_db.png"  width="70%" height="70%">
 
 
 - **Point d'attention**
